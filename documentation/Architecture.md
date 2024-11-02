@@ -6,4 +6,4 @@ This is a playground for markdown. Pictures and Diagrams should be included.
 
 The following diagram shows a mock system context.
 
-![Image](./SystemContext-diagram.svg)
+![System Context](/documentation/diagrams/Systemcontext-diagram.svg)
